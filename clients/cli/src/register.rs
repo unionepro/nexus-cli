@@ -146,7 +146,7 @@ fn print_friendly_error() {
     println!("\x1b[38;2;255;170;0m{}\x1b[0m", LOGO_NAME);
     println!("\x1b[38;2;255;170;0mWe'll be back shortly\x1b[0m");
     println!(
-        "The Prover network’s orchestrater is under unprecedented traffic. Team has been notified. Thank you for your patience while issue is resolved.\n"
+        "The Prover network’s orchestrator is under unprecedented traffic. Team has been notified. Thank you for your patience while issue is resolved.\n"
     );
 }
 
